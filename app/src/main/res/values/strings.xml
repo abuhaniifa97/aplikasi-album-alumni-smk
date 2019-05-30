@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Album Nesaci 2019</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="title_activity_team">TEAM</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tentangaplikasi">
+        Aplikasi Album  Nesaci 2019 adalah sebuah aplikasi album kenang-kenangan angkatan 2019.Aplikasi ini memiliki fitur
+        Melihat Daftar Jurusan,Kelas,Siswa,Staf Tenaga Pengajar,Staf Tata Usaha dan Profile Sekolah.Tujuan Aplikasi ini untuk
+        Mengurangi Penggunaan media kertas yang biasa nya di gunakan untuk membuat buku kenangan sekolah.
+
+    </string>
+    <string name="profilenesaci">SMK NEGERI 1 CIKEDUNG Atau Yang Biasa di sebut NESACI Adalah Sekolah Kejuruan yang memiliki agretasi yang
+    bagus di indramayu. SMK NEGERI 1 CIKEDUNG Sudah berdiri sejak tahun 2007,hingga saat ini SMK NEGERI 1 CIKEDUNG
+        memiliki 4 Kompetensi Keahlian Diantaranya :
+    </string>
+    <string name="jalan">Terletak Di JL.Raya Cikedung-Terisi Kec.Cikedung,Kab.Indramayu Jawa Barat</string>
+    <string name="tahun">2007-2019</string>
+</resources>

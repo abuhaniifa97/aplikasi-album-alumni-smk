@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nesaci.rdc.aplikasialumni">
+
+    <!-- add internet permission -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoaplikasi"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logoaplikasi"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5571625346543718~4408650856"/>
+        <activity android:name=".Splash_Screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ProfileSmk" />
+        <activity android:name=".DaftarKelas" />
+        <activity
+            android:name=".TEAM"
+            android:label="@string/title_activity_team"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".PROFILE_NESACI" />
+        <activity android:name=".DetailSiswa" />
+        <activity android:name=".TataUsaha" />
+        <activity android:name=".HalamanUtama" />
+        <activity android:name=".kelasrpl" />
+        <activity android:name=".DaftarGuru" />
+        <activity android:name=".Contoh" />
+        <activity android:name=".TentangAplikasi" />
+        <activity android:name=".kelasap1" />
+        <activity android:name=".kelasap2" />
+        <activity android:name=".kelasmmaxioo" />
+        <activity android:name=".kelasmm1" />
+        <activity android:name=".kelasmm2" />
+        <activity android:name=".kelastkr1" />
+        <activity android:name=".kelastkr2" />
+        <activity android:name=".kelastkr3"></activity>
+    </application>
+
+</manifest>

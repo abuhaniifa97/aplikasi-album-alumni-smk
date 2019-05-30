@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "262098381101",
+    "firebase_url": "https://fir-project-d25fe.firebaseio.com",
+    "project_id": "fir-project-d25fe",
+    "storage_bucket": "fir-project-d25fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262098381101:android:bb45f41e21c07d65",
+        "android_client_info": {
+          "package_name": "com.nesaci.rdc.aplikasialumni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262098381101-i64olf219ht92on6n5tr9pag9t6kss15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nesaci.rdc.aplikasialumni",
+            "certificate_hash": "9551233dadd80431832060d0d7a87473c5f15dc7"
+          }
+        },
+        {
+          "client_id": "262098381101-9q8kg9r2esvevct4qbvt9g92ess3plr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXWzCH8VQ39jz6TVSOC6fw7OUf80bpW6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262098381101-9q8kg9r2esvevct4qbvt9g92ess3plr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5571625346543718~4408650856"
+    }
+  ],
+  "configuration_version": "1"
+}
